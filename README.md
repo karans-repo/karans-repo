@@ -115,7 +115,7 @@
 
 <!-- GitHub Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aayushkrgupta&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=karans-repo&theme=dark&hide_border=true" />
 </div>
 
 <br>
