@@ -12,13 +12,6 @@
   👨‍💻 Full Stack App Developer (React Native, Backend)
 </p>
 
-<!-- Company Logo -->
-<div align="center">
-  <a href="https://brancovenn.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/AayushKrGupta/AayushKrGupta/main/BV%20logo.png" height="100" alt="BrancoVenn Logo" />
-  </a>
-</div>
-
 <br>
 
 <h3 align="center">📲 Reach Me</h3>
