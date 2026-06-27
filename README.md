@@ -7,12 +7,9 @@
 <h1 align="center">👋 Hi, I'm Karan Kabdal</h1>
 
 <p align="center">
-  
-  Building impactful apps & backend systems<br>
-  👨‍💻 Full Stack App Developer (React Native, Backend)
+  Building impactful apps &amp; backend systems<br />
+  💻 Full Stack App Developer (React Native, Backend)
 </p>
-
-<br>
 
 <h3 align="center">📲 Reach Me</h3>
 
