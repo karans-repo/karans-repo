@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hi, I'm Karan Kabdal</h1>
 
 <p align="center">
-  <strong>Founder @<a href="https://brancovenn.com" target="_blank">BrancoVenn</a></strong><br>
+  
   Building impactful apps & backend systems<br>
   👨‍💻 Full Stack App Developer (React Native, Backend)
 </p>
